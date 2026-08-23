@@ -4,10 +4,7 @@ A full-stack event discovery and booking platform. Browse events, book a spot wi
 
 **Live site:** https://client-eventora-tejash.vercel.app
 
-| Role | Email | Password |
-|---|---|---|
-| Admin | `admin@eventora.com` | `password123` |
-| User | `user@eventora.com` | `password123` |
+
 
 ## Features
 
